@@ -1,7 +1,5 @@
 # Hi there 👋
-
 ## PROJECTS
-
 ### personal
 - [VOIC](https://gitlab.com/voic): A modular, multilingual voice assistant platform supporting `Kazakh`, `English`, and `Russian`.
 - [fundme](https://github.com/peible/fundme): Project helps individuals raise funds for personal causes with secure payments and easy sharing.
@@ -17,3 +15,5 @@ Project ideas from DevOps Roadmap
 - [GreenAPI](https://github.com/peible/green-api-task): A simple project for interacting with the Green API, designed to perform and manage basic API tasks efficiently.
 - [Jusan Singularity](https://github.com/peible/jdo): Basic linux and scripting knowledge.
 - [SolvaTech](https://github.com/peible/solva-task): Basic linux, network and scripting knowledge.
+
+## TECH STACK
