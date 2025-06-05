@@ -12,8 +12,7 @@ Project ideas from DevOps Roadmap
 - [Basic Dockerfile](https://github.com/peible/rm-bd): Build a basic `Dockerfile` to create a Docker image.
 
 ### test tasks
-- [GreenAPI](https://github.com/peible/green-api-task): A simple project for interacting with the Green API, designed to perform and manage basic API tasks efficiently.
-- [Jusan Singularity](https://github.com/peible/jdo): Basic linux and scripting knowledge.
-- [SolvaTech](https://github.com/peible/solva-task): Basic linux, network and scripting knowledge.
+[GreenAPI](https://github.com/peible/green-api-task) | [Jusan Singularity](https://github.com/peible/jdo) | [SolvaTech](https://github.com/peible/solva-task)
 
 ## TECH STACK
+Docker | Kubernetes | Git | GitLab CI/CD | GitHub Actions | Jenkins | Prometheus | Grafana | ELK Stack | Zabbix | NGINX | Traefik | HAProxy | PostgreSQL | MongoDB | MySQL | Python | Bash | Linux | IaC | Ansible | Vagrant
