@@ -6,7 +6,7 @@
   
 ### roadmap.sh
 Project ideas from DevOps Roadmap
-- [Multi-Container Application](https://github.com/peible/rm-mca): Runs a `Node.js` app and `MongoDB` database together using `Docker Compose` for production practice.
+- [Multi-Container Application](https://github.com/peible/rm-mca): Deploy a Node.js and MongoDB app to the cloud using Docker and CI/CD tools.
 - [Dockerized Service](https://github.com/peible/rm-dsd): A simple project showing how to deploy a service using Docker.
 - [Dummy Systemd Service](https://github.com/peible/rm-dss): A minimal dummy `systemd` service for testing and learning.
 - [Basic Dockerfile](https://github.com/peible/rm-bd): Build a basic `Dockerfile` to create a Docker image.
